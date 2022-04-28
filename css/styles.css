@@ -1,0 +1,15 @@
+#tabla {
+    padding-top: 60px;
+}
+
+.foto {
+    left: 50px;
+    right: 50px;
+    top: 50px;
+    bottom: 50px;
+}
+
+.contenido {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
